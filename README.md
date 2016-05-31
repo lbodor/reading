@@ -7,4 +7,6 @@ http://www.scs.stanford.edu/16wi-cs240h/slides/rts-lecture-annot.pdf
 
 https://blog.jle.im/entry/automatic-propagation-of-uncertainty-with-ad.html
 
+http://michaelxavier.net/posts.html
+
 
