@@ -9,4 +9,5 @@ https://blog.jle.im/entry/automatic-propagation-of-uncertainty-with-ad.html
 
 http://michaelxavier.net/posts.html
 
-
+### Nix
+https://github.com/cstrahan/wiwinwln/blob/master/tutorial.md
