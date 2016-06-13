@@ -11,3 +11,5 @@ http://michaelxavier.net/posts.html
 
 ### Nix
 https://github.com/cstrahan/wiwinwln/blob/master/tutorial.md
+
+http://lists.science.uu.nl/pipermail/nix-dev/2015-June/017347.html
