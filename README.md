@@ -13,3 +13,5 @@ http://michaelxavier.net/posts.html
 https://github.com/cstrahan/wiwinwln/blob/master/tutorial.md
 
 http://lists.science.uu.nl/pipermail/nix-dev/2015-June/017347.html
+
+https://github.com/bjornfor/nixos-config/blob/master/configuration.nix
