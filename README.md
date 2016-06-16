@@ -2,6 +2,8 @@
 
 https://2.bp.blogspot.com/-DiKZgs4Nc84/VyEjcINJkKI/AAAAAAAAUZg/mdn_G6DdefkF34aFbs4QrSbd-n8bOBU0ACLcB/s1600/painters-and-hackers.jpeg
 
+https://github.com/timakro/vim-searchant
+
 ### Haskell
 http://www.scs.stanford.edu/16wi-cs240h/slides/rts-lecture-annot.pdf
 
