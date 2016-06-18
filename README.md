@@ -21,3 +21,7 @@ https://github.com/bjornfor/nixos-config/blob/master/configuration.nix
 https://github.com/chaoflow/nixos-configurations/blob/master/configuration-eve.nix
 
 https://github.com/bernerdschaefer/dotfiles/blob/master/nixos/configuration.nix
+
+### Vi
+
+https://www.youtube.com/watch?v=MGmIJyTf8pg
