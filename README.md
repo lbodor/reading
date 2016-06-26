@@ -26,6 +26,8 @@ https://github.com/nixkoans/nixkoans
 
 Late binding in nix: http://r6.ca/blog/20140422T142911Z.html
 
+https://github.com/bluescreen303/bluenix
+
 ### Vi
 
 https://www.youtube.com/watch?v=MGmIJyTf8pg
