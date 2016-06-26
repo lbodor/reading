@@ -22,6 +22,8 @@ https://github.com/chaoflow/nixos-configurations/blob/master/configuration-eve.n
 
 https://github.com/bernerdschaefer/dotfiles/blob/master/nixos/configuration.nix
 
+https://github.com/nixkoans/nixkoans
+
 ### Vi
 
 https://www.youtube.com/watch?v=MGmIJyTf8pg
