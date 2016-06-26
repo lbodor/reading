@@ -24,6 +24,8 @@ https://github.com/bernerdschaefer/dotfiles/blob/master/nixos/configuration.nix
 
 https://github.com/nixkoans/nixkoans
 
+Late binding in nix: http://r6.ca/blog/20140422T142911Z.html
+
 ### Vi
 
 https://www.youtube.com/watch?v=MGmIJyTf8pg
