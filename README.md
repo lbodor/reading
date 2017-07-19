@@ -37,6 +37,3 @@ https://github.com/bluescreen303/bluenix
 
 https://www.youtube.com/watch?v=MGmIJyTf8pg
 
-### Types
-
-http://eric.seidel.io/pub/nanomaly-icfp16.pdf
