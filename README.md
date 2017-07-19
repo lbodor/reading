@@ -11,6 +11,11 @@ https://blog.jle.im/entry/automatic-propagation-of-uncertainty-with-ad.html
 
 http://michaelxavier.net/posts.html
 
+https://github.com/jwbuurlage/category-theory-programmers/raw/master/doc/categories_for_programmers.pdf
+
+### Types
+https://www.cs.virginia.edu/~weimer/p/nanomaly-icfp16.pdf
+
 ### Nix
 https://github.com/cstrahan/wiwinwln/blob/master/tutorial.md
 
