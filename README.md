@@ -33,6 +33,10 @@ Late binding in nix: http://r6.ca/blog/20140422T142911Z.html
 
 https://github.com/bluescreen303/bluenix
 
+### DDD/CQRS/ES
+
+http://yuppiechef.github.io/cqrs-server/
+
 ### Vi
 
 https://www.youtube.com/watch?v=MGmIJyTf8pg
