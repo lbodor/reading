@@ -33,6 +33,8 @@ Late binding in nix: http://r6.ca/blog/20140422T142911Z.html
 
 https://github.com/bluescreen303/bluenix
 
+http://chriswarbo.net/projects/nixos/useful_hacks.html
+
 ### DDD/CQRS/ES
 
 http://yuppiechef.github.io/cqrs-server/
