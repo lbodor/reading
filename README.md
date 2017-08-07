@@ -13,6 +13,8 @@ http://michaelxavier.net/posts.html
 
 https://github.com/jwbuurlage/category-theory-programmers/raw/master/doc/categories_for_programmers.pdf
 
+http://www4.di.uminho.pt/~jno/ps/pdbc_part.pdf
+
 ### Types
 https://www.cs.virginia.edu/~weimer/p/nanomaly-icfp16.pdf
 
